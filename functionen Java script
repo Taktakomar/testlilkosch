@@ -1,0 +1,24 @@
+// tajouti valeur fi tableau
+tablename.push("valeur"); 
+// position mta3 valeur (-1 ken mafamech lvaleur)
+tablename.indexOf ("valeur");
+//tifsa5 valeur min tableau (1 9adeh bech tisa5)
+tablename.splice("valeur",1) or splice(0,0,"valeur")//ajouter valeur 
+//trateb tableu 
+tablename.sort();
+//t9leb chaine il tableau 7asb"x" tit9as chaine 
+chaine.split(x);
+// t5araj min tableau chaine "," nji ba3d kol valeur
+tableau.join(",");
+// boucle 
+for (const i in tableau) gleich wie for (i=0;i<tab;i++)
+for (const tableau of tableaus ){tableau hiya lvaleur}
+// contiune und stop
+continue;
+break ;
+//type mta3 variable lina x 
+typeof x ;
+// majusc 
+chaine.toUpperCase();<>toLowerCase()
+//valeur mta3 chaine 
+praseInt(i,10);
